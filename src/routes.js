@@ -32,7 +32,7 @@ function Routes(){
         <BrowserRouter>
            <Switch>
                <Route path="/login" exact component={Login} />
-               <PrivateRoute path="/home" exact>
+               <PrivateRoute path={["/", "/home"]} exact>
                    <Home/>
                </PrivateRoute>
                <PrivateRoute path="/profile" exact>

@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Esse projeto foi criado usando o [Create React App](https://github.com/facebook/create-react-app).
+This project was created using [Create React App](https://github.com/facebook/create-react-app).
 
 ## Como rodar o projeto:
 Para executar: 

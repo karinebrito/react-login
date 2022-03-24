@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was created using [Create React App](https://github.com/facebook/create-react-app).
 
-## How to run the project
+### How to run the project
 
 - Clone this resource locally
 - Run `npm install`
